@@ -1,8 +1,4 @@
-# ☕ Iced Coffee API
-
 Simple Node.js + Express + MongoDB project.
-
-## 🚀 How to Run
 
 1. Clone this repo:
    ```bash
